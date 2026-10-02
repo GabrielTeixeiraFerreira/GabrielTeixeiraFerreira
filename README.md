@@ -1,60 +1,109 @@
-<h1 align="center">Hi 👋, I'm Gabriel Teixeira Ferreira</h1>
-<h3 align="center">A backend developer from Brazil</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Gabriel+Teixeira+Ferreira;Full+Stack+com+foco+em+Dados;Construindo+solu%C3%A7%C3%B5es+com+IA" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on **JBS**
+<h1 align="center">Gabriel Teixeira Ferreira</h1>
 
-- 🌱 I’m currently learning **Jenkins and Data Science**
-
-- 📫 How to reach me **scorpigabriel@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gabriel-teixeira-ferreira-25587b2b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel teixeira ferreira" height="30" width="40" /></a>
-<a href="https://instagram.com/tetxsss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tetxsss" height="30" width="40" /></a> 
+<p align="center">
+  <img alt="Brazil" src="https://img.shields.io/badge/Brazil-%F0%9F%87%A7%F0%9F%87%BE-0A7EA4?style=for-the-badge&logoColor=white" />
+  <img alt="Full Stack + Data" src="https://img.shields.io/badge/Full%20Stack%20%2B%20Data-8B5CF6?style=for-the-badge&logoColor=white" />
 </p>
 
-<h3 align="left">Backend Languages:</h3>
-<p align="left">
-   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-      <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a> 
-      <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-      <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-teixeira-ferreira-25587b2b6/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/tetxsss" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:scorpigabriel@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Frontend Languages:</h3>
-<p align="left">
-   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GabrielTeixeiraFerreira&label=Profile+Views&color=8B5CF6&style=flat-square" alt="Profile views" />
 </p>
 
-<h3 align="left">Frameworks:</h3>
+## 💻 Sobre mim
+
+Sou um desenvolvedor em formação com interesse crescente em full stack e em soluções que unem backend, frontend e inteligência artificial. Tenho base em Java, C#, Python, bancos de dados, APIs e automações, e busco aplicar esses conhecimentos para criar produtos mais completos, escaláveis e orientados a dados.
+
+- 🔭 Atualmente trabalhando na **JBS**
+- 🌱 Estudando  **Ciência de Dados** e **IA**
+- 🧠 Interessado em machine learning, análise de dados, dashboards, automação e desenvolvimento de produtos inteligentes
+- 📫 Contato: **scorpigabriel@gmail.com**
+
+## 🧩 Tecnologias que domino
+
+### Linguagens e backend
+
 <p align="left">
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
 </p>
 
-<h3 align="left">Databases:</h3>
+### Dados, IA e análise
+
 <p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-<h3 align="left">Dev-Ops:</h3>
+### Banco de dados, frontend e infraestrutura
+
 <p align="left">
-   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>  
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
 </p>
 
+## 📌 Objetivos
 
-<h3 align="left">Tools:</h3>
-<p align="left"> 
-   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
-   </p>
+- evoluir como desenvolvedor full stack com foco em dados e IA
+- construir soluções que conectem backend, frontend e análise de dados
+- aprofundar em machine learning, dashboards e automação inteligente
+- criar aplicações práticas e bem estruturadas para resolver problemas reais
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielTeixeiraFerreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTeixeiraFerreira&layout=compact&theme=dracula" alt="Top languages" />
+</p>
+
+## 📅 Calendário isométrico de commits
+
+Este calendário é gerado de verdade pelo plugin Metrics e mostra meu ritmo de contribuição no GitHub.
+
+<p align="center">
+  <img src="https://github.com/GabrielTeixeiraFerreira/GabrielTeixeiraFerreira/blob/main/github-metrics.svg" alt="Calendário isométrico de commits" />
+</p>
+
+> O gráfico é gerado automaticamente pela GitHub Action em [.github/workflows/metrics.yml](.github/workflows/metrics.yml). Para funcionar, o repositório precisa ter a secret `METRICS_TOKEN` configurada.
+
+## 🚀 Vamos conversar?
+
+Estou em busca de oportunidades para aprender, desenvolver skills práticas e crescer como profissional de tecnologia.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-teixeira-ferreira-25587b2b6/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:scorpigabriel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contato-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
